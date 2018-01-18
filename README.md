@@ -19,7 +19,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Introduction
 1. - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)  
-[summary](#40-Key-Computer-Science-Concepts-Explained-in-Layman's-Terms)
+[summary](#40-Key-Computer-Science-Concepts-Explained-in-Laymans-Terms)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -220,12 +220,12 @@ But knowing the stuff will help you become better! :muscle:*
 ### 40 Key Computer Science Concepts Explained in Layman's Terms
 
 1. Algorithms and Data Structures
- 1.1. Big O Notation  
+ 1.1 Big O Notation  
  Growth rate, worst case, scalability, efficiency 
- 1.2. Sorting algorithms
- 1.3. Recursion
- 1.4. Big data
- 1.5. Data Structures  
+ 1.2 Sorting algorithms
+ 1.3 Recursion
+ 1.4 Big data
+ 1.5 Data Structures  
 2. Artificial Intelligence
  2.1. Greedy algorithm  
  A greedy algorithms picks the best immediate choice and never reconsider  
