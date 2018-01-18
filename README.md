@@ -18,7 +18,8 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Introduction
 1. - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)  
+[ref](#40-key-computer-science-concepts)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -211,4 +212,60 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewBit](https://www.interviewbit.com/)
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
+***
+### Reference & info  
+  
+  
+******
+### 40 Key Computer Science Concepts Explained in Layman's Terms (#40-key-computer-science-concepts)
 
+1. Algorithms and Data Structures
+ 1.1. Big O Notation  
+ Growth rate, worst case, scalability, efficiency 
+ 1.2. Sorting algorithms
+ 1.3. Recursion
+ 1.4. Big data
+ 1.5. Data Structures  
+2. Artificial Intelligence
+ 2.1. Greedy algorithm  
+ A greedy algorithms picks the best immediate choice and never reconsider  
+ it's choices
+ 2.2. Hill Climbing  
+ HCA attempts to find a better solution be generating a neighboring solutions.  
+ Each neighboring solution is generated based on the best solution so far, with  
+ a single element modified.
+ 2.3. Simulated annealing  
+ Always evaluates best possible solutions so far, if not sure roll back to some  
+ previous point, reevaluate and go further with better solution. The better solution  
+ is, the lower the probability you move to a worse solution.
+ 2.4. Dynamic Programming  
+ Break down a problem into sub-problems and solve it, then store it. Next time the same  
+ problem occurs it takes no time to retrieve it.(Memoization)  
+ Combine previous solutions to sub-problems to solve another problem/sub-problem(optimization)
+ 2.5. P vs NP problem (polynomial vs nondeterministic polynomial)
+ 7 x 17 = p ; p x q = 119.  
+ easy to verify, but hard to solve. Problem largely consist of the factorization problem.  
+ It's easier, takes less time and effort to multiply numbers(verify), rather than factorize(solve).
+4. Concurrency  
+Is a property of programs and systems that allow tasks to run in overlapping time periods.
+ 4.1. Parallelism  
+ Allows 2 or more tasks to run at the same time, provided that the machine has  multiprocessing capability
+ 4.2. Race condition  
+ When two processes/actions overlap/cancel each other and causing unwanted rewrites.  
+ 4.3. Mutual Exclusion (Mutex)  
+ Lock a process in order to finish ongoing action/transaction without any later interruptions from other  
+ transactions/actions. 
+ 4.4. Semaphore. Binary Semaphore  
+ Lock a process based on its priority
+ 4.5. Semaphore. Counting Semaphore  
+ Queue incoming transaction if process is locked, after unlocking hand over to the next in queue
+ 4.6. Deadlock  
+ An issue in concurrency systems, when two process are blocked for trying to exchange/overwrite data  
+ of each other in the same time.
+5. Cryptography
+ 5.1. Symmetric cryptography
+ 5.2. Asymmetric cryptography  
+ Public-private key cryptography 
+ 
+ 
+ 
