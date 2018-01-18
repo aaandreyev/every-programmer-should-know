@@ -19,7 +19,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Introduction
 1. - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)  
-[ref](#40-key-computer-science-concepts)
+[summary](#40-Key-Computer-Science-Concepts-Explained-in-Layman's-Terms)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -217,7 +217,7 @@ But knowing the stuff will help you become better! :muscle:*
   
   
 ******
-### 40 Key Computer Science Concepts Explained in Layman's Terms (#40-key-computer-science-concepts)
+### 40 Key Computer Science Concepts Explained in Layman's Terms
 
 1. Algorithms and Data Structures
  1.1. Big O Notation  
