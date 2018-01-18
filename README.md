@@ -18,11 +18,8 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Introduction
 1. - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)    
-  <details>
-    <summary>Summary</summary>
-    <p>[link](#40-key-compute-science-concepts-explained-in-laymans-terms)</p>
-  </details>
+2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)  
+[summary](#40-key-compute-science-concepts-explained-in-laymans-terms)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -222,14 +219,14 @@ But knowing the stuff will help you become better! :muscle:*
 ******
 ### 40 Key Computer Science Concepts Explained in Layman's Terms  
 
-1. Algorithms and Data Structures  
+1. **Algorithms and Data Structures**  
   1.1 Big O Notation  
   Growth rate, worst case, scalability, efficiency 
   1.2 Sorting algorithms  
   1.3 Recursion  
   1.4 Big data  
   1.5 Data Structures  
-2. Artificial Intelligence  
+2. **Artificial Intelligence**
   2.1. Greedy algorithm  
   A greedy algorithms picks the best immediate choice and never reconsider  
   it's choices  
@@ -249,7 +246,7 @@ But knowing the stuff will help you become better! :muscle:*
   7 x 17 = p ; p x q = 119.  
   easy to verify, but hard to solve. Problem largely consist of the factorization problem.  
   It's easier, takes less time and effort to multiply numbers(verify), rather than factorize(solve).
-4. Concurrency  
+4. **Concurrency**  
   Is a property of programs and systems that allow tasks to run in overlapping time periods.
   4.1. Parallelism  
   Allows 2 or more tasks to run at the same time, provided that the machine has  multiprocessing capability
@@ -265,7 +262,7 @@ But knowing the stuff will help you become better! :muscle:*
    4.6. Deadlock  
   An issue in concurrency systems, when two process are blocked for trying to exchange/overwrite data  
   of each other in the same time.
-5. Cryptography
+5. **Cryptography**
   5.1. Symmetric cryptography
   5.2. Asymmetric cryptography  
   Public-private key cryptography 
