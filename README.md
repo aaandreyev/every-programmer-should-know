@@ -213,7 +213,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
 ***
-### Reference & info  
+### Summary & info  
   
   
 ******
