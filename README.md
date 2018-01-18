@@ -18,11 +18,11 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Introduction
 1. - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)  
-<details>
-  <summary>Summary</summary>
-  <p>[link](#)</p>
-</details>
+2. - [x] [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)    
+  <details>
+    <summary>Summary</summary>
+    <p>[link](#40-key-compute-science-concepts-explained-in-laymans-terms)</p>
+  </details>
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
